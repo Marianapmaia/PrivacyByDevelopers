@@ -23,13 +23,13 @@ Our long-term vision is to develop a requirements specification method and tool 
 
 ## Research Team
 
-Prof. Dr. Tony Gorschek (Product Management, Asset Management, Value-Based Product Development), primary contact.
+* Item 1 Prof. Dr. Tony Gorschek (Product Management, Asset Management, Value-Based Product Development), primary contact.
 tony.gorschek@bth.se
 
-Msc. Mariana Peixoto (Ph.D. candidate in Computer Science), supporting scientist.
+* Item 2 Msc. Mariana Peixoto (Ph.D. candidate in Computer Science), supporting scientist.
 mmp2@cin.ufpe.br
 
-Prof. Dr. Carla Silva (Requirements Engineering, Software Engineering, Agile Development) supporting scientist.
+* Item 3 Prof. Dr. Carla Silva (Requirements Engineering, Software Engineering, Agile Development) supporting scientist.
 
 ## Study Design 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
