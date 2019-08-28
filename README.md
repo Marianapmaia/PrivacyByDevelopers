@@ -12,7 +12,7 @@ An understanding of the personal, external environment and behavioral factors th
 A seminar in which the theory results are presented and related to the challenges of developing successful privacy-sensitive software systems;
 A report detailing both the overall theory and the results per company (anonymity preserved), to provide individual views and a comparison among them regarding how they deal with privacy concerns in software development.
 
-![Image](https://github.com/Marianapmaia/PrivacyByDevelopers/blob/master/SCT.png) 
+![Image](https://github.com/Marianapmaia/PrivacyByDevelopers/blob/master/SCT.png?raw=true) 
 
 Fig. 1: Privacy perceptions of software developers. 
 HADAR, Irit et al. Privacy by designers: software developers’ privacy mindset. Empirical Software Engineering, v. 23, n. 1, p. 259-289, 2018. DOI https://doi.org/10.1007/s10664-017-9517-1
