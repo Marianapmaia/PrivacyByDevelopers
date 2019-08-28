@@ -31,8 +31,11 @@ mmp2@cin.ufpe.br
 
 * Prof. Dr. Carla Silva (Requirements Engineering, Software Engineering, Agile Development) supporting scientist.
 
+### You can also access the PDF 
+[PDF Link](https://guides.github.com/features/mastering-markdown/).
+
 ## Study Design 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [Study Design Link](https://guides.github.com/features/mastering-markdown/).
 
 ## Presentation 
 For more details see [Presentation Link](https://docs.google.com/presentation/d/1otBcHIfccRtt6bm_rI36wU2QILopS0d4sQd0EN4xQxk/edit?usp=sharing).
