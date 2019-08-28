@@ -35,4 +35,4 @@ mmp2@cin.ufpe.br
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ## Presentation 
-For more details see [GitHub Flavored Markdown](https://docs.google.com/presentation/d/1otBcHIfccRtt6bm_rI36wU2QILopS0d4sQd0EN4xQxk/edit?usp=sharing).
+For more details see [Presentation Link](https://docs.google.com/presentation/d/1otBcHIfccRtt6bm_rI36wU2QILopS0d4sQd0EN4xQxk/edit?usp=sharing).
