@@ -30,7 +30,7 @@ tony.gorschek@bth.se
 mmp2@cin.ufpe.br </div>
 
 ### You can also access the PDF 
-[PDF Link](https://guides.github.com/features/mastering-markdown/).
+[PDF Link](https://github.com/Marianapmaia/PrivacyByDevelopers/blob/master/Privacy%20mindset%20of%20software%20developers.pdf).
 
 ## Study Design 
 For more details see [Study Design Link](https://guides.github.com/features/mastering-markdown/).
