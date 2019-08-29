@@ -34,7 +34,7 @@ mmp2@cin.ufpe.br </div>
 [PDF Link](https://github.com/Marianapmaia/PrivacyByDevelopers/blob/master/Privacy%20mindset%20of%20software%20developers.pdf).
 
 ## Study Design 
-For more details see [Study Design Link](https://guides.github.com/features/mastering-markdown/).
+For more details see [Study Design Link](https://github.com/Marianapmaia/PrivacyByDevelopers/blob/master/Study%203%20Design.pdf).
 
 ## Presentation 
 For more details see [Presentation Link](https://docs.google.com/presentation/d/1otBcHIfccRtt6bm_rI36wU2QILopS0d4sQd0EN4xQxk/edit?usp=sharing).
