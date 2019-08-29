@@ -27,9 +27,7 @@ Our long-term vision is to develop a requirements specification method and tool 
 tony.gorschek@bth.se
 
 * Msc. Mariana Peixoto (Ph.D. candidate in Computer Science), supporting scientist.
-mmp2@cin.ufpe.br
-
-* Prof. Dr. Carla Silva (Requirements Engineering, Software Engineering, Agile Development) supporting scientist. </div>
+mmp2@cin.ufpe.br </div>
 
 ### You can also access the PDF 
 [PDF Link](https://guides.github.com/features/mastering-markdown/).
